@@ -26,7 +26,7 @@ print the characters and its huffmancode
 Name : Karthikeyan R
 Reg.no: 212222240046
 ```
-```
+
 ### Get the input String
 ```
 string = 'KARTHI_KEYAN_2525'
@@ -91,7 +91,6 @@ print('----------------------')
 for (char, frequency) in freq:
     print('%-4r|%12s'%(char,huffmanCode[char]))
 
-```
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/920d6b6e-aa5c-4130-a68c-299f1a0ac1dc)
